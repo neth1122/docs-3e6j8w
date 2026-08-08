@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-j20irc.indcuan.cfd/sitemap.xml
